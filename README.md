@@ -4,7 +4,7 @@
 Python script is made for Jupyter Labs: <BR>
 Clicker : click and zoom into Mandelbrot .<BR>
 Streamer : Video zoomer into Mandelbrot .<BR>
-Grower : Using distorted fractal function, select area of interest, then letit grow .<BR>
+Grower : Using distorted fractal function, select area of interest, then let it grow .<BR>
 ## Fractal functions
 Read python Scripts and adapt the base functions to your need<br>
 Many variations are tested and pre-defined (just unmark the right one<br>
