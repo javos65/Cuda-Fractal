@@ -1,14 +1,14 @@
 # Cuda-Fractal
  Cuda accelerated Python scripts for Fractal MadelBrot images and video<br>
-# Description
+## Description
 Python script is made for Jupyter Labs: <BR>
 Clicker : click and zoom into Mandelbrot .<BR>
 Streamer : Video zoomer into Mandelbrot .<BR>
 Grower : Using distorted fractal function, select area of interest, then letit grow .<BR>
-# Fractal functions
+## Fractal functions
 Read python Scripts and adapt the base functions to your need<br>
 Many variations are tested and pre-defined (just unmark the right one<br>
-# Dependencies:
+## Dependencies:
 import os <br>
 import cv2 <br>
 from datetime import datetime <br>
