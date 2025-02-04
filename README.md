@@ -1,5 +1,6 @@
 # Cuda-Fractal
  Cuda accelerated Python scripts for Fractal MadelBrot images and video<br>
+ + ![Board](/output/MandelZoom2.png?raw=false)<BR>
 ## Description
 Python script is made for Jupyter Labs: <BR>
 Clicker : click and zoom into Mandelbrot .<BR>
@@ -21,7 +22,7 @@ from numpy.random import default_rng <br>
 import cmath <br>
 from numba import cuda <----------- Cuda required> <br> <br>
 + ![Board](/output/MandelZoom11.png?raw=false)<BR>
-+ ![Board](/output/MandelZoom2.png?raw=false)<BR>
+
 
 
 
