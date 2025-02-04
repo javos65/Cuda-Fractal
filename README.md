@@ -16,6 +16,7 @@ from datetime import datetime <br>
 import numba <br>
 from numba import jit  <-------- Cuda required> <br>
 import numpy as np <br>
+import random <br>
 import scipy as sc <br>
 import math <br>
 from numpy.random import default_rng <br>
