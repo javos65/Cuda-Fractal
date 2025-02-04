@@ -20,7 +20,7 @@ import math <br>
 from numpy.random import default_rng <br>
 import cmath <br>
 from numba import cuda <----------- Cuda required> <br> <br>
-+ ![Board](/output/MandelZoom1.png?raw=false)<BR>
++ ![Board](/output/MandelZoom11.png?raw=false)<BR>
 + ![Board](/output/MandelZoom2.png?raw=false)<BR>
 
 
